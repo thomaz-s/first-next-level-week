@@ -1,4 +1,4 @@
-Esse projeto foi desenvolvido durante a Primeira Next Level Week, uma série de 5 aulas ministradas pela equipe da ![Rockeseat](https://github.com/Rocketseat) onde é desenvolvida uma aplicação completa, envolvendo o back-end, front-end e aplicativo mobile, porém nesse repositório não incluí a parte mobile.
+Esse projeto foi desenvolvido durante a Primeira Next Level Week, uma série de 5 aulas ministradas pela equipe da [Rockeseat](https://github.com/Rocketseat) onde é desenvolvida uma aplicação completa, envolvendo o back-end, front-end e aplicativo mobile, porém nesse repositório não incluí a parte mobile.
 
 A aplicação se chama Ecoleta, e tem por objetivo ajudar pessoas que querem contribuir com a coleta de resíduos sólidos para reciclagem. Na página web é feito um cadastro dos estabelecimentos que recebem esses materiais, para tanto é necessário:
 * Nome do estabelecimento
@@ -11,10 +11,12 @@ No aplicativo mobile, que não está presente nesse respositório, os usuários 
 
 Abaixo, algumas imagens da aplicação web:
 
-![Landing page](docs/.github/landing.png)
+![Landing page](https://raw.githubusercontent.com/thomaz-s/first-next-level-week/master/.github/landing.png)
 
 Primeira parte da página de cadastro, onde é adicionada uma imagem do local e informados os dados básicos de contato:
-![Tela de cadastro](docs/.github/cadastro01.png)
+
+![Tela de cadastro](https://raw.githubusercontent.com/thomaz-s/first-next-level-week/master/.github/cadastro01.png)
 
 Segunda parte da página de cadastro, com a seleção do endereço através do mapa:
-![Landing Page](docs/.github/cadastro02.png)
+
+![Landing Page](https://raw.githubusercontent.com/thomaz-s/first-next-level-week/master/.github/cadastro02.png)
