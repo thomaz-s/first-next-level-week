@@ -4,8 +4,8 @@ A aplicação se chama Ecoleta, e tem por objetivo ajudar pessoas que querem con
 * Nome do estabelecimento
 * Dados de contato (e-mail e Whatsapp)
 * Realizar o upload de uma foto do local
-* Informar as coordenadas, através de uma mapa mostrado no site, que foi feito com a ajuda da biblioteca leaflet
-* Especificiar exatamente quais tipos de resíduos fazem a coleta (escolher entre as opções sugeridas pelo site)
+* Informar as coordenadas, através de uma mapa mostrado no site, que foi feito com a ajuda da biblioteca [leaflet](https://github.com/Leaflet/Leaflet)
+* Especificar exatamente quais tipos de resíduos fazem a coleta (escolher entre as opções sugeridas pelo site)
 
 No aplicativo mobile, que não está presente nesse respositório, os usuários conseguem consultar esses estabelecimentos, que são sugeridos de acordo com a localização, e também filtrá-los por tipos de resíduos que estão dispostos a entregar. Ao clicar em algum esbatelecimento no mapa, conseguem visualizar os dados de contato do mesmo.
 
